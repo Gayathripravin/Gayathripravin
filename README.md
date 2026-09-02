@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @Gayathripravin
-- 👀 I’m a bioinformatician 
-- 🌱 I’m currently learning biological data analysis using r and python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Gayathri 👋
 
-<!---
-Gayathripravin/Gayathripravin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Bioinformatics Researcher | Computational Biology | NGS
+
+🔬 Interested in computational approaches to disease research
+
+🧬 Research Interests
+• Cardiovascular disease
+• RNA-seq & transcriptomics
+• Multi-omics
+• Systems biology
+• Biomarker discovery
+• Drug discovery
+• Structural bioinformatics
+
+💻 Tools & Technologies
+R | Python | Linux | Bioconductor | DESeq2 | GEO | Git | GitHub
+
+📊 Current Research
+• CVD RNA-seq analysis
+• Biomarker discovery
+• Differential gene expression
+• Functional enrichment
+• Network biology
+
+📚 Research & Teaching
+Assistant Professor | Bioinformatics & Biotechnology
+
+---
+
+⭐ Explore my repositories below
